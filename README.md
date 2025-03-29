@@ -59,7 +59,7 @@ This is an **end-to-end Machine Learning project** that predicts a student's **M
    - Runs locally (`127.0.0.1:5001`).
 
 
-```
+
 
 ## 🎯 Features  
 
@@ -68,7 +68,7 @@ This is an **end-to-end Machine Learning project** that predicts a student's **M
 ✅ **Logging** for debugging and monitoring  
 ✅ **Flask-based web interface** for real-time predictions
 
-```
+
 
 ## 🖥️ Web App Interface  
 
